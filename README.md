@@ -1,6 +1,9 @@
 # Chamba Finder 3000
+##### English
 
-El encuetra chamba 3000 es una automaticion de la aplicacion de empleos en linkedin 
+##### Español 
+###### El encuetra chamba 3000 es una automaticion de la aplicacion de empleos en linkedin 
+
 #### Chamba word history
 
 #### Installation
